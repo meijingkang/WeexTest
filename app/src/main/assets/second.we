@@ -1,0 +1,15 @@
+<template>
+  <div>
+    <image style="width:750px; height:750px;" src="https://img.alicdn.com/tps/TB1z.55OFXXXXcLXXXXXXXXXXXX-560-560.jpg"></image>
+    <div class="title">
+      <text style="font-size:50px; color: #ff0000">你好，image</text>
+    </div>
+  </div>
+</template>
+<style>
+  .title{
+    position:absolute;
+    top:50;
+    left:10;
+  }
+</style>

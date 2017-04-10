@@ -1,0 +1,18 @@
+<template>
+    <div class="wrapper">
+
+
+
+    </div>
+</template>
+
+<style>
+.wrapper {
+  position:absolute;
+  background-color:red;
+  left:0;
+  top:0;
+  right:0;
+  bottom:0;
+}
+</style>
